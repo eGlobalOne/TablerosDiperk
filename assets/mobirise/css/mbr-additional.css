@@ -621,8 +621,8 @@ section.lazy-placeholder:after {
 }
 .cid-shi4sEyQvr {
   padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/banner-6-1796x740.png");
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/banner-1920x1154.png");
 }
 .cid-shi4sEyQvr .mbr-section-title,
 .cid-shi4sEyQvr .mbr-section-subtitle {
@@ -702,52 +702,9 @@ section.lazy-placeholder:after {
 .cid-shi4sEyQvr .mbr-section-btn {
   color: #ffffff;
 }
-.cid-sBK2z4xmDk {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-sBK2z4xmDk .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-sBK2z4xmDk .mbr-content-text {
-  color: #767676;
-}
-.cid-sBK2z4xmDk .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-sBK2z4xmDk .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-@media (max-width: 767px) {
-  .cid-sBK2z4xmDk .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-sBK2z4xmDk .img-text {
-  color: #c1c1c1;
-}
-.cid-sBK2z4xmDk .mbr-section-title {
-  color: #0050a1;
-}
-.cid-sBK6hLWpVI {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
 .cid-sBLf3doymE {
   padding-top: 120px;
-  background-image: url("../../../assets/images/background8.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sBLf3doymE .container {
   margin-bottom: 15%;
@@ -756,7 +713,7 @@ section.lazy-placeholder:after {
   z-index: 0;
 }
 .cid-sBLf3doymE .container-boxes {
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   position: relative;
   display: flex;
   -webkit-justify-content: center;
@@ -765,7 +722,7 @@ section.lazy-placeholder:after {
   flex-wrap: wrap;
   -webkit-align-items: stretch;
   align-items: stretch;
-  background-color: #f4f8fa;
+  background-color: #ffffff;
 }
 .cid-sBLf3doymE .icon-block-top span {
   background-color: #0050a1;
@@ -850,6 +807,14 @@ section.lazy-placeholder:after {
   .cid-sBLf3doymE .box-item:first-child {
     margin-top: -100px;
   }
+}
+.cid-sBLf3doymE H1 {
+  color: #ffffff;
+}
+.cid-sBK6hLWpVI {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
 .cid-sBKMLETqlp {
   padding-top: 0px;
