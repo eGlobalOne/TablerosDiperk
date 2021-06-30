@@ -63,7 +63,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "mbrsiteDomain": "diperk-dpower",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
